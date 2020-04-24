@@ -1,0 +1,8 @@
+[
+    {"name":"yawn","belt":"green","rate":40,"available":true,"thumb":"content/img/logo1.png"},
+    {"name":"yawni","belt":"black","rate":40,"available":true,"thumb":"content/img/logo1.png"},
+    {"name":"rush","belt":"red","rate":400,"available":true,"thumb":"content/img/logo1.png"},
+    {"name":"chao","belt":"blue","rate":90,"available":true,"thumb":"content/img/logo1.png"},
+    {"name":"russian","belt":"purple","rate":100,"available":true,"thumb":"content/img/logo1.png"},
+    {"name":"yippee","belt":"orange","rate":190,"available":true,"thumb":"content/img/logo1.png"}
+]
